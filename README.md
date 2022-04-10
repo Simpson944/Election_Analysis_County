@@ -9,4 +9,7 @@
 ### Denver had the highest voter turnout at 306,055 votes 
 
 ## Election Analysis by candidate:
-- 
+- Raymon Anthony Doane received 3.1% of the vote, or 11,606 votes
+- Charles Casper Stockham received 23.0% of the vote, or 85,213 votes 
+- Diana DeGette received 73.8% of the vote, or 272,892 votes
+### Diana DeGette has won the election receiving 272,892 total votes
