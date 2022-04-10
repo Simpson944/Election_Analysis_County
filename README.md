@@ -20,4 +20,5 @@
   2	County,
   3	Candidate, 
 -	If future datasets are arranged differently, line 39 and line 41 will have to be edited to reflect the candidate column and county column respectively
+h
 
