@@ -13,3 +13,11 @@
 - Charles Casper Stockham received 23.0% of the vote, or 85,213 votes 
 - Diana DeGette received 73.8% of the vote, or 272,892 votes
 ### Diana DeGette has won the election receiving 272,892 total votes
+
+### The code provided in this analysis can be used for any future election to find the winner, and the county breakdown. Considerations for the raw data: 
+-	The raw data must include headers in the following order:
+  1	Ballot ID,
+  2	County,
+  3	Candidate, 
+-	If future datasets are arranged differently, line 39 and line 41 will have to be edited to reflect the candidate column and county column respectively
+
